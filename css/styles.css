@@ -1,0 +1,30 @@
+.footerdesign
+{
+    background-color:black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 100;
+}
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+
+  .fd{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: honeydew;
+    font-size: smaller;
+  }
+a:link{
+  text-decoration:none;
+  color:white;
+}
+
+.image{
+  position: relative;
+  left: 0;
+  padding-top: 20px;
+}
+
